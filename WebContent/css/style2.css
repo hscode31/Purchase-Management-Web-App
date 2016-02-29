@@ -1,0 +1,66 @@
+nav>ul>li{
+	display: inline;
+}
+
+nav>ul>li{
+	padding: 0px 5px;
+}
+
+nav>ul{
+	text-align: center;
+}
+
+nav{
+	position: relative;
+	top: -25px;
+	background-color: #FF8800;
+	color: white !important;
+	border-radius: 5px;
+}
+
+nav>ul>li:hover{
+	background-color: rgba(0,0,0,.1);
+}
+
+nav>ul>li>a:hover{
+	color: white;
+}
+
+#approve{
+	margin-left: 16%;
+	float: left;
+	width: 200px;
+	font-size: 24px;
+	padding: 0px;
+}
+
+#reject{
+	margin-left: 53%;
+	font-size: 24px;
+	width: 200px;
+	padding: 0px;
+}
+
+#another{
+	margin-left: 16%;
+	float: left;
+	width: 200px;
+	font-size: 24px;
+	padding: 0px;
+}
+
+#logout{
+	margin-left: 53%;
+	font-size: 24px;
+	width: 200px;
+	padding: 0px;
+}
+/*
+.heading_x{
+	font-family: "Titillium Web",sans-serif !important;
+	font-size: 29px !important;
+	height: 48px !important;
+	padding-top: 8px !important;
+	font-weight: 200 !important;
+
+}*/
